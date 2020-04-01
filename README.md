@@ -444,6 +444,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Brewery: Deep Learning and deeper profiles for the prediction of 1D protein structure annotations**  
+Mirko Torrisi, Gianluca Pollastri.  
+*Bioinformatics, March 2020.*  
+[[10.1093/bioinformatics/btaa204](https://doi.org/10.1093/bioinformatics/btaa204)]
+
 **Improved protein structure prediction using predicted inter-residue orientations.**  
 Jianyi Yang, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov, David Baker.  
 *Preprint, November 2019.*  
@@ -454,6 +459,15 @@ Joe G. Greener, Shaun M. Kandathil, David T. Jones.
 *Nature Communications, September 2019.*  
 [[10.1038/s41467-019-11994-0](https://doi.org/10.1038/s41467-019-11994-0)]
 
+**PaleAle 5.0: Prediction of protein relative solvent accessibility by Deep Learning.**  
+Manaz Kaleel, Mirko Torrisi, Catherine Mooney, Gianluca Pollastri.  
+*Amino Acids, September 2019.*  
+[[10.1007/s00726-019-02767-6](https://doi.org/10.1007/s00726-019-02767-6)]
+
+**Deeper Profiles and Cascaded Recurrent and Convolutional Neural Networks for state-of-the-art Protein Secondary Structure Prediction.**  
+Mirko Torrisi, Manaz Kaleel, Gianluca Pollastri.  
+*Scientific Reports, August 2019.*  
+[[10.1038/s41598-019-48786-x](https://doi.org/10.1038/s41598-019-48786-x)]
 
 **DeepPrime2Sec: Deep Learning for Protein Secondary Structure Prediction from the Primary Sequences.**  
 Ehsaneddin Asgari, Nina Poerner, Alice C. McHardy,  Mohammad R.K. Mofrad.  
