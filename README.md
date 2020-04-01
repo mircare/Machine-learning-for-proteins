@@ -27,6 +27,11 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**Deep learning methods in protein structure prediction.**  
+Mirko Torrisi, Gianluca Pollastri, Quan Le.  
+*Computational and Structural Biotechnology Journal, January 2020.*  
+[[doi.org/10.1016/j.csbj.2019.12.011](https://doi.org/10.1016/j.csbj.2019.12.011)]
+
 **Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition.**  
 Sebastian Raschka, Benjamin Kaufman.  
 *Preprint, January 2020.*  
